@@ -1,7 +1,5 @@
 def new_hash["new_hash"]
- new_hash["new_hash"] += 1
-else
-  puts new_hash{"new_hash"]
+  hash = {}
   end
 
 def my_hash
